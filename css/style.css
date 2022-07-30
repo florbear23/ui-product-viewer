@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -9,6 +10,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f2e9e2;
+    font-family: 'Fraunces', serif,'Montserrat', sans-serif;
 }
 
 .mainContainer{
